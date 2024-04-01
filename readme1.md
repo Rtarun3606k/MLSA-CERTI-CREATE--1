@@ -10,9 +10,12 @@ both docx and pdf.
 
 Use the below commands in cmd
 
-git clone [https://github.com/muhammedogz/MLSA-Certificate-Automate.git](https://github.com/Rtarun3606k/MLSA-CERTI-CREATE--1.git)
+git clone https://github.com/Rtarun3606k/MLSA-CERTI-CREATE--1.git
+
 cd MLSA-Certificate-Automate
+
 pip install -r requirements.txt
+
 python main_certificate.py
 
 ## Customization
@@ -29,6 +32,9 @@ in Data Template > Event Participate Template.csv [enter the participants name]
 the outputs will be created in output folder in PDF and Doc formmat
 
 Also, functions are very simple. You can implement your own versions as well.
+
+after this u can use this link to create mail templates in csv form 
+https://github.com/Rtarun3606k/CSV-data-and-mail-template.git
 
 
 credits 
