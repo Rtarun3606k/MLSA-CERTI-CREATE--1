@@ -8,8 +8,9 @@ both docx and pdf.
 - Working on Windows only.
 - Required Microsoft Doc
 
+Use the below commands in cmd
 
-git clone https://github.com/muhammedogz/MLSA-Certificate-Automate.git
+git clone [https://github.com/muhammedogz/MLSA-Certificate-Automate.git](https://github.com/Rtarun3606k/MLSA-CERTI-CREATE--1.git)
 cd MLSA-Certificate-Automate
 pip install -r requirements.txt
 python main_certificate.py
